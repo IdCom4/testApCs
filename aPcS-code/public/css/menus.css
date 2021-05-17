@@ -1,0 +1,94 @@
+section {
+  min-height: calc(100vh - 180px - 69px);
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+section > div {
+  width: 45%;
+  padding: 50px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section > div h2 {
+  margin-bottom: 50px;
+}
+
+section > div#menus table {
+  margin-bottom: 50px;
+}
+
+section > div table .menu-title {
+  font-size: 20px;
+}
+
+section > div#carte table .menu-title {
+  padding: 15px 0;
+}
+
+section > div#menus table .menu-title {
+  padding-top: 20px;
+}
+
+section > div#menus table tr td:nth-child(2n) {
+  text-align: center;
+}
+
+@media screen and (max-width: 1300px) {
+  section#main {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  section#main > div {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  section#main {
+    font-size: 12px;
+    padding: 5px;
+  }
+
+  section > div {
+    padding: 20px 0;
+  }
+
+  section > div h2 {
+    margin-bottom: 15px;
+  }
+
+  section > div#carte table .menu-title {
+    font-size: 18px;
+  }
+
+  section > div#carte table tr td:first-child {
+    width: 80%;
+  }
+
+  section > div#carte table tr td:nth-child(2n) {
+    width: 20%;
+  }
+
+  section > div#menus table {
+    width: 100%;
+  }
+  
+  section > div#menus table .menu-title {
+    font-size: 13px;
+  }
+
+  section > div table small {
+    font-size: 8px;
+  }
+
+  section#main > div {
+    width: 100%;
+  }
+}

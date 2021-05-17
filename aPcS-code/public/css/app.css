@@ -1,1 +1,52 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  color: #373737;
+  background-color: #E0D6C2;
+  margin: 0;
+  min-height: 100vh;
+}
 
+h1, h2, h3 {
+  font-family: 'MV Boli', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  font-size: 25px;
+  border-bottom: solid 2px #373737;
+}
+
+.bold {
+  font-weight: bold !important;
+}
+.underline {
+  text-decoration: underline !important;
+}
+
+.ta-center {
+  text-align: center !important;
+}
+
+.ta-left {
+  text-align: left !important;
+}
+
+.ta-right {
+  text-align: right !important;
+}
+
+.w-100 {
+  width: 100% !important;
+}
+
+.w-50 {
+  width: 50% !important;
+}

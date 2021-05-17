@@ -16,3 +16,17 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/menus-carte', function () {
+  return view('menus-carte');
+});
+
+Route::get('/a-emporter', function () {
+  return view('a-emporter');
+});
+
+Route::get('/reservation-contact', function () {
+  return view('reservation-contact');
+});
+
+Route::post('/sendEmail/send', "SendEmailController@send");

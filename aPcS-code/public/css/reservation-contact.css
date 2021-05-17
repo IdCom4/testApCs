@@ -1,0 +1,114 @@
+section#main {
+  min-height: calc(100vh - 160px - 69px);
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+section#main > div {
+  width: 45%;
+  padding: 50px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+section#main > div > h2 {
+  margin-bottom: 50px;
+}
+
+section#main table td {
+  padding: 0px 10px 5px 10px;
+}
+
+section#main > div#reservation table {
+  margin-bottom: 50px;
+}
+
+section#main > div#contact > p {
+  margin-top: 40px;
+}
+
+section#main > div#contact > #form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+
+section#main > div#contact >div#form > .form-elem {
+  height: 30px;
+  padding: 5px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  font-family: "Nunito", sans-serif;
+}
+
+section#main > div#contact > #form > #message {
+  height: 80px;
+}
+
+section#main > div#contact > #form > button {
+  margin-top: 25px;
+  background-color: #31555C;
+  color: #E0D6C2;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+section#main > div#contact > #form > button:hover {
+  transform: scale(1.05);
+}
+
+@media screen and (max-width: 1000px) {
+  section#main {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  section#main > div {
+    width: 100%;
+  }
+
+  section#main > div#reservation p {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  section#main > div h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+
+  section#main {
+    font-size: 12px;
+    padding: 10px;
+  }
+
+  section#main > div {
+    padding: 20px 0;
+  }
+
+  section#main > div#reservation table td {
+    padding: 5px;
+  }
+
+  section#main > div#reservation table {
+    margin-bottom: 15px;
+  }
+
+  section#main > div#contact p {
+    margin-top: 20px;
+  }
+
+  section#main > div#contact #form button {
+    margin-top: 10px;
+  }
+}
