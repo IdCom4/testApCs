@@ -57,29 +57,29 @@
             </table>
             <p>Vous pouvez également nous contacter directement depuis ce formulaire:</p>
             @if(count($errors) > 0)
-              <div id="errors">
+              <div id="errors" class="infos">
                 <ul>
                   @foreach($errors->all() as $error)
-                    <li>{{ error }}</li>
+                    <li>{{ $error }}</li>
                   @endforeach 
                 </ul>
               </div>
             @endif
+            @if($message = Session::get("success"))
+              <div id="success" class="infos">
+                <p>{{ $message }}</p>
+              </div>
+            @endif
             <form id="form" method="post" action="{{ url('sendEmail/send') }}">
               {{ csrf_field() }}
-              <input id="name" name="name" class="form-elem" type="text" placeholder="Votre nom" />
+              <input id="nom" name="nom" class="form-elem" type="text" placeholder="Votre nom" />
               <input id="mail" name="mail" class="form-elem" type="text" placeholder="Votre email" />
-              <input id="subject" name="subject" class="form-elem" type="text" placeholder="Objet">
+              <input id="sujet" name="sujet" class="form-elem" type="text" placeholder="Objet">
               <textarea id="message" name="message" class="form-elem" placeholder="Message"></textarea>
-              <input type="submit" name="send" value="Envoyer" />
+              <input type="submit" id="submit" name="send" value="Envoyer" />
             </form>
           </div>
         </section>
         <x-footer />
     </body>
-    <script>
-      function sendForm() {
-        console.log("on envoie");
-      }
-    </script>
 </html>

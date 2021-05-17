@@ -29,18 +29,19 @@
             <h3>Tradition française et familiale</h3>
           </div>
         </section>
+        <section id="infos">
+          <p>À PARTIR DU 19 MAI, RETROUVEZ LE GOÛT DE LA LIBERTÉ ET D’UNE BONNE TABLE AU PETIT CHEZ SOI</p>
+        </section>
         <section id="presentation">
           <div id="a-propos">
             <h3>Qui sommes-nous ?</h3>
-            <p><span class="bold">Au Petit Chez Soi</span> est synonyme de cuisine exigeante et soignée.</p>
-            <p>À seulement deux pas de Paris, dans un cadre agréable et chaleureux au coeur du bourg médiéval de la Celle Saint-Cloud, nous vous proposons des plats de tradition française et familiale.</p>
-            <p>Notre cuisine simple mais raffinée vous dera apprécier la qualité de nos <span class="bold">produits frais</span> choisis chaque jour avec soin selon le marché, auprès de producteurs régionaux pour vous offrir du <span class="bold">bon manger</span> et du <span class="bold">bien manger</span>.
-            <p>Dès les beaux jours, nous vous accueillerons en terrasse avec vue sur le bourg et son église ou dans le patio intérieur, véritable <span class="bold">havre de paix</span> disent certains !</p>
-            <p>Sérénité, <span class="bold">bien être</span> assurés pour un repas d'affaire, familial ou entre amis.</p>
-            <p>(Notre salle au 1er étage est à votre disposition pour groupe à partir de 12 personnes sur réservation)</p>
-            <p>Pour vous en convaincre, venez nous rendre visite</p>
-            <p>À très vite le plaisir de vous recevoir pour une pause gourmande !</p>
-            <p class="ta-left w-50 bold">Joëlle, Pascal,<br />et toute l'équipe</p>
+            <p>Nous avons mis à profit ces mois de séparation pour embellir ce bijou de restaurant dans son écrin du bourg médiéval de La Celle Saint-Cloud, à deux pas de Paris, de Versailles et de Saint-Germain en Laye.</p>
+            <p>le dynamisme de notre équipe soutient le talent d’un duo expérimenté et ambitieux en cuisine.</p>
+            <p>Notre démarche est généreuse, elle a pour objectif de partager avec vous notre goût d’une bonne table et du bonheur de l’instant présent.</p>
+            <p>Au Petit Chez Soi n’est pas qu’une enseigne ou une adresse : c’est un accueil et un savoir-faire qui vous mènent naturellement à ressentir que vous êtes au petit chez vous.</p>
+            <p>Avant le 9 juin, date à laquelle nous aurons le bonheur de vous recevoir sous notre toit, nous vous recevons sur nos terrasses pour des dégustations en tous genres, dont des grands crus d’huîtres du Cotentin.</p>
+            <p>Nous élargirons ensuite notre carte pour vous proposer des produits de saison et de belle origine, adaptés aux goûts les plus variés.</p>
+            <p class="ta-left w-50 bold">Nous vous attendons Au Petit Chez Soi, vous y serez mieux que bien !</p>
           </div>
           <div id="horaires">
             <h3>Nos Horaires d'Ouverture</h3>
@@ -57,7 +58,7 @@
               </tbody>
             </table>
             <p>Puis, sur réservation, le <span class="bold" style="color: red">MARDI SOIR</span> - pour les groupes exclusivement</p>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d168018.5397285033!2d2.0033751618703093!3d48.85268620896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67cd634c26207%3A0x3b81fb36ecee4881!2sAu%20Petit%20chez%20Soi!5e0!3m2!1sfr!2sfr!4v1620659369162!5m2!1sfr!2sfr" width="500" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d168018.5397285033!2d2.0033751618703093!3d48.85268620896051!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67cd634c26207%3A0x3b81fb36ecee4881!2sAu%20Petit%20chez%20Soi!5e0!3m2!1sfr!2sfr!4v1620659369162!5m2!1sfr!2sfr" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
           </div>
         </section>
         <x-footer />

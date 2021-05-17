@@ -27,9 +27,25 @@ section#titre .background-teint {
   color: #E0D6C2;
 }
 
+section#infos {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding: 20px 5px 0 5px;
+}
+
+section#infos p {
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: white;
+  background-color: #28a745;
+  text-align: center;
+}
+
 section#presentation {
   display: flex;
   padding: 50px;
+  overflow: hidden;
 }
 
 section#presentation div#a-propos {
@@ -95,6 +111,10 @@ section#presentation div#horaires iframe {
 
   section#titre {
     height: 300px;
+  }
+
+  section#infos p {
+    padding: 10px;
   }
 
   section#presentation {

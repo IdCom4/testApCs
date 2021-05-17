@@ -29,4 +29,4 @@ Route::get('/reservation-contact', function () {
   return view('reservation-contact');
 });
 
-Route::post('/sendEmail/send', "SendEmailController@send");
+Route::post('/sendEmail/send', "App\Http\Controllers\SendEmailController@send");
