@@ -21,12 +21,16 @@ Route::get('/menus-carte', function () {
   return view('menus-carte');
 });
 
-Route::get('/a-emporter', function () {
+/*Route::get('/a-emporter', function () {
   return view('a-emporter');
-});
+});*/
 
 Route::get('/reservation-contact', function () {
   return view('reservation-contact');
 });
 
 Route::post('/sendEmail/send', "App\Http\Controllers\SendEmailController@send");
+
+Route::get('/mentions-legales', function () {
+  return view('mentions-legales');
+});

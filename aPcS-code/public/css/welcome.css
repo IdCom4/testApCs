@@ -8,11 +8,9 @@ section#titre h1 {
   margin: 50px 0;
 }
 
-h3 {
+section#presentation h2 {
   width: fit-content;
-  margin-bottom: 35px;
-  padding-bottom: 15px;
-  border-bottom: solid 2px #373737;
+  margin-bottom: 35px !important;
 }
 
 section#titre .background-teint {
@@ -57,7 +55,7 @@ section#presentation div#a-propos {
   padding: 25px;
 }
 
-section#presentation div#horaires {
+section#presentation div#horaires-map {
   width: 40%;
   display: flex;
   flex-direction: column;
@@ -65,16 +63,7 @@ section#presentation div#horaires {
   padding: 25px
 }
 
-section#presentation div#horaires table {
-  margin-top: 15px;
-  margin-bottom: 50px;
-}
-
-section#presentation div#horaires table td {
-  padding: 0 10px;
-}
-
-section#presentation div#horaires iframe {
+section#presentation div#horaires-map iframe {
   margin-top: 25px;
   height: 500px;
   width: 500px;
@@ -97,11 +86,11 @@ section#presentation div#horaires iframe {
     margin: 20px 0 !important;
   }
 
-  h3 {
-    font-size: 20px !important;
+  h2 {
+    font-size: 25px !important;
   }
 
-  h1, h3 {
+  h1, h2 {
     text-align: center;
   }
 
@@ -126,11 +115,11 @@ section#presentation div#horaires iframe {
     padding: 30px 0 !important;
   }
 
-  section#presentation div#horaires {
+  section#presentation div#horaires-map {
     padding-bottom: 0 !important;
   }
 
-  section#presentation div#horaires iframe {
+  section#presentation div#horaires-map iframe {
     height: 300px;
     width: 100vw;
   }

@@ -15,6 +15,7 @@
         <!-- Styles -->
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <link href="{{ asset('css/navbar.css') }}" rel="stylesheet">
+        <link href="{{ asset('css/reservation.css') }}" rel="stylesheet">
         <link href="{{ asset('css/reservation-contact.css') }}" rel="stylesheet">
         <link href="{{ asset('css/footer.css') }}" rel="stylesheet">
         <style>
@@ -24,34 +25,18 @@
     <body class="antialiased">
         <x-navbar activeTab="reservation-contact" />
         <section id="main">
-          <div id="reservation">
-          <h2>Nos Horaires d'Ouverture</h2>
-            <table>
-              <tbody>
-                <tr>
-                  <td>Du mercredi au samedi</td>
-                  <td>12:00 - 14:00 / 19:30 - 22:00</td>
-                </tr>
-                <tr>
-                  <td>Le dimanche</td>
-                  <td>12:00 - 14:00</td>
-                </tr>
-              </tbody>
-            </table>
-            <p>Puis, sur réservation, le <span class="bold" style="color: red">MARDI SOIR</span> - pour les groupes exclusivement</p>
-            <p>Vous pouvez utiliser le formulaire de contact pour reserver.</p>
-          </div>
+          <x-horaires />
           <div id="contact">
             <h2>Contact</h2>
             <table>
               <tbody>
                 <tr>
                   <td>Tél:</td>
-                  <td>01.23.45.67.89</td>
+                  <td>01 39 69 69 51</td>
                 </tr>
                 <tr>
                   <td>Mail:</td>
-                  <td>contact@aupetitchezsoi.fr</td>
+                  <td>reservations@au-petit-chez-soi.fr</td>
                 </tr>
               </tbody>
             </table>

@@ -6,11 +6,11 @@
         <tbody>
           <tr>
             <td>Tél:</td>
-            <td>01.23.45.67.89</td>
+            <td>01 39 69 69 51</td>
           </tr>
           <tr>
             <td>Mail:</td>
-            <td>contact@aupetitchesoi.fr</td>
+            <td>reservations@au-petit-chez-soi.fr</td>
           </tr>
         </tbody>
       </table>
@@ -19,6 +19,7 @@
       <div id="copyright">
         <h2>Au Petit Chez Soi</h2>
         <p>© 2021</p>
+        <a id="mentions-legales" href="{{ url('/mentions-legales') }}"><small>Mentions Légales</small></a>
       </div>
       <div id="infos">
         <div id="reseaux">

@@ -24,7 +24,13 @@
     <body class="antialiased">
         <x-navbar activeTab="menus-carte" />
         <section id="main">
-          <div id="menus">
+          <div id="waiter">
+            <h2>Menus et Carte</h2>
+            <p>Il nous tarde de vous présenter notre nouvelle carte !</p>
+            <p>À partir du <span class="bold underline">9 juin</span>, vous y trouverez une cuisine traditionnelle française revisitée, élaborée à partir de produits variés et de saison</p>
+          </div>
+          
+          <!-- div id="menus">
             <h2>Menus</h2>
             <table>
               <tr>
@@ -92,76 +98,6 @@
               Nos prix sont nets TTC - service compris
           </small></p>
           </div>
-          <!-- div id="menus">
-            <h2>Menus</h2>
-            <table>
-              <tr>
-                <td class="bold menu-title">Menu Carte (hors&nbsp;boisson)</td>
-                <td><span class="bold menu-title">43€&nbsp;</span><small>(+&nbsp;Sup.&nbsp;selon&nbsp;votre&nbsp;choix)</small></td>
-              </tr>
-              <tr>
-                <td class="ta-center">A choisir à la carte</td>
-              </tr>
-              <tr>
-                <td>Entrée - Plat - Fromage<span class="bold">&nbsp;ou&nbsp;</span>Dessert</td>
-              </tr>
-            </table>
-            <table>
-              <tr>
-                <td class="bold menu-title" colspan="2">Déjeuné à l'ardoise - Formule Bistrot (hors&nbsp;boisson)</td>
-              </tr>
-              <tr>
-                <td class="ta-center"><small>Mercredi, jeudi et vendredi<br />(Hors jours fériés)</small></td>
-              </tr>
-              <tr>
-                <td>Entrée - Plat - Dessert</td>
-                <td class="ta-center bold">24,50€</td>
-              </tr>
-              <tr>
-                <td>Plat du Jour seul</td>
-                <td class="ta-center bold">19€</td>
-              </tr>
-            </table>
-            <table>
-              <tr>
-                <td colspan="2"><span class="bold menu-title">Menu Pitchoun (hors&nbsp;boisson)</span> <small>(jusqu'à&nbsp;10&nbsp;ans)</small> <span class="bold menu-title">15€</span></td>
-              </tr>
-              <tr>
-                <td class="ta-center underline" colspan="2">1 menu Pitchoun acheté = 1 menu Pitchoun offet</td>
-              </tr>
-              <tr>
-                <td class="ta-center">Beignets de poisson - Tagliatelles</td>
-              </tr>
-              <tr>
-                <td class="ta-center">ou</td>
-              </tr>
-              <tr>
-                <td class="ta-center">Croustillants de poulet - Purée</td>
-              </tr>
-              <tr>
-                <td class="ta-center">+</td>
-              </tr>
-              <tr>
-                <td class="ta-center">Glace ou sorbet <small>(2 boules)</small></td>
-              </tr>
-            </table>
-            <table>
-              <tr>
-                <td colspan="2"><span class="bold underline menu-title">Ciné-Diner à la Celle Saint-Cloud</span> -&nbsp;<small>Réservation&nbsp;recommandée</small></td>
-              </tr>
-              <tr>
-                <td>-10% pour la séance du samedi soir sur présentation du ticket</td>
-              </tr>
-              <tr>
-                <td class="ta-center"><small>(Hors boisson et jours fériés)</small></td>
-              </tr>
-            </table>
-            <p><small>
-              Selon le marché, certains produits peuvent manquer<br />
-              Produits allergènes - Voir liste à la caisse<br />
-              Nos prix sont nets TTC - service compris
-          </small></p>
-          </div -->
           <div id="carte">
             <h2>Carte</h2>
             <table>
@@ -252,7 +188,7 @@
                 <td>Café ou Thé gourmand</td>
               </tr>
             </table>
-          </div>
+          </div -->
         </section>
         <x-footer />
     </body>

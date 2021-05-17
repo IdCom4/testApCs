@@ -1,0 +1,43 @@
+section#main {
+  min-height: calc(100vh - 165px - 70px);
+  width: 100%;
+  padding: 30px 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+section#main h2 {
+  margin-bottom: 50px;
+}
+
+section#main p {
+  margin: 5px 0;
+}
+
+section#main a:hover {
+  color: green;
+}
+
+section#main button {
+  margin-top: 50px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: #31555C;
+  color: #E0D6C2;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+section#main button:hover {
+  transform: scale(1.05);
+}
+
+@media screen and (max-width: 500px) {
+  section#main button {
+    font-size: 17px;
+  }
+}

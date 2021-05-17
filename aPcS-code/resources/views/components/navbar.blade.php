@@ -3,7 +3,7 @@
     <ul id="nav-links">
       <li><a href="{{ url('/') }}" class="{{ $activeTab == 'accueil' ? 'active' : '' }}">Accueil</a></li>
       <li><a href="{{ url('/menus-carte') }}" class="{{ $activeTab == 'menus-carte' ? 'active' : '' }}">Menus/Carte</a></li>
-      <li><a href="{{ url('/a-emporter') }}" class="{{ $activeTab == 'a-emporter' ? 'active' : '' }}">À Emporter</a></li>
+      <!--li><a href="{{ url('/a-emporter') }}" class="{{ $activeTab == 'a-emporter' ? 'active' : '' }}">À Emporter</a></li-->
       <li><a href="{{ url('/reservation-contact') }}" class="{{ $activeTab == 'reservation-contact' ? 'active' : '' }}">Réservation/Contact</a></li>
     </ul>
     <div id="burger" onclick="deployNav()">

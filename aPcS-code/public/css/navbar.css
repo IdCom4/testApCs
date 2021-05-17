@@ -75,7 +75,7 @@
   }
 
   #navbar ul.deployed {
-    transform: translate3d(0, 188px, -10px);
+    transform: translate3d(0, 141px, -10px);
   }
 
   #navbar ul li {
@@ -129,7 +129,7 @@
     height: 50px;
   }
   #navbar h2 {
-    font-size: 18px;
+    font-size: 18px !important;
     margin-left: 15px;
   }
 

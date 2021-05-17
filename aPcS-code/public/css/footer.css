@@ -45,6 +45,7 @@ footer#footer div#content div#footer-contact h3 {
 
 footer#footer div#content div#footer-contact table td {
   padding: 5px;
+  text-align: left;
 }
 
 footer#footer div#content div#reverse-col div#infos div {
@@ -69,6 +70,10 @@ footer#footer div#content div#reverse-col div#infos div#reseaux a {
 
 footer#footer div#content div#reverse-col div#infos div#reseaux a:hover {
   transform: scale(1.1);
+}
+
+footer#footer div#content div#reverse-col div#copyright a#mentions-legales:hover {
+  text-decoration: underline;
 }
 
 footer#footer div#content div#reverse-col div#copyright p {

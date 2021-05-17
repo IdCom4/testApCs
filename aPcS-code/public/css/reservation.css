@@ -1,0 +1,44 @@
+div#horaires {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+div#horaires > h2 {
+  margin-bottom: 50px;
+}
+
+div#horaires table {
+  margin-bottom: 25px;
+}
+
+div#horaires table td {
+  padding: 0px 10px 5px 10px;
+}
+
+@media screen and (max-width: 1000px) {
+  div#horaires {
+    width: 100%;
+  }
+
+  div#horaires p {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 500px) {
+
+  div#horaires h2 {
+    font-size: 25px;
+    margin-bottom: 25px;
+    text-align: center;
+  }
+
+  div#horaires table {
+    margin-bottom: 15px;
+  }
+
+  div#horaires table td {
+    padding: 5px;
+  }
+}

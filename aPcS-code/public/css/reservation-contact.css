@@ -23,10 +23,6 @@ section#main table td {
   padding: 0px 10px 5px 10px;
 }
 
-section#main > div#reservation table {
-  margin-bottom: 50px;
-}
-
 section#main > div#contact > p {
   margin-top: 40px;
 }
@@ -96,10 +92,6 @@ section#main > div#contact > #success.infos {
   section#main > div {
     width: 100%;
   }
-
-  section#main > div#reservation p {
-    text-align: center;
-  }
 }
 
 @media screen and (max-width: 500px) {
@@ -116,14 +108,6 @@ section#main > div#contact > #success.infos {
 
   section#main > div {
     padding: 20px 0;
-  }
-
-  section#main > div#reservation table td {
-    padding: 5px;
-  }
-
-  section#main > div#reservation table {
-    margin-bottom: 15px;
   }
 
   section#main > div#contact p {
