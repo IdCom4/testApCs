@@ -16,6 +16,7 @@ class SendEmailController extends Controller
       $this->validate($request, [
         "nom" => "required",
         "mail" => "required|email",
+        "tel" => "required|regex:/[0-9]{10}/",
         "sujet" => "required",
         "message" => "required"
       ]);
@@ -24,6 +25,7 @@ class SendEmailController extends Controller
         "nom" => $request->nom,
         "mail" => $request->mail,
         "sujet" => $request->sujet,
+        "tel" => $request->tel,
         "message" => $request->message,
       );
 

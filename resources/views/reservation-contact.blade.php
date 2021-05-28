@@ -59,6 +59,7 @@
               {{ csrf_field() }}
               <input id="nom" name="nom" class="form-elem" type="text" placeholder="Votre nom" />
               <input id="mail" name="mail" class="form-elem" type="text" placeholder="Votre email" />
+              <input type="tel" id="tel" name="tel"  class="form-elem" placeholder="Votre numéro de téléphone (ex: 0678912345)" />
               <input id="sujet" name="sujet" class="form-elem" type="text" placeholder="Objet">
               <textarea id="message" name="message" class="form-elem" placeholder="Message"></textarea>
               <input type="submit" id="submit" name="send" value="Envoyer" />

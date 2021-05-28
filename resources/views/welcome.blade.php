@@ -31,7 +31,7 @@
           </div>
         </section>
         <section id="infos">
-          <p>À PARTIR DU <span class="bold underline">19 MAI</span>, RETROUVEZ LE GOÛT DE LA LIBERTÉ ET D’UNE BONNE TABLE AU PETIT CHEZ SOI</p>
+          <p>RETROUVEZ LE GOÛT DE LA LIBERTÉ ET D’UNE BONNE TABLE AU PETIT CHEZ SOI</p>
         </section>
         <section id="presentation">
           <div id="a-propos">

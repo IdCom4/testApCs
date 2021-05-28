@@ -1,5 +1,6 @@
 <p><small class="label">De:</small><br /><span class="data">{{ $data["nom"] }}</span></p>
 <p><small class="label">Adresse Mail:</small> <br /><span class="data">{{ $data["mail"] }}</span></p>
+<p><small class="label">Numéro de Téléphone:</small> <br /><span class="data">{{ $data["tel"] }}</span></p>
 <br />
 <p>{{ $data["message"] }}</p>
 <br />

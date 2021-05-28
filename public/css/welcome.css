@@ -2,6 +2,7 @@ section#titre {
   width: 100%;
   height: 600px;
   background-image: url("../images/aupetitchezsoi.gif");
+  background-size: cover;
 }
 
 section#titre h1 {
