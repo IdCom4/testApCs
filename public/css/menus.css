@@ -24,12 +24,28 @@ section > div h2 {
   margin-bottom: 50px;
 }
 
-section > div#menus table {
-  margin-bottom: 50px;
+section > div#carte table {
+  margin-bottom: 40px;
+}
+
+section > div#carte table td {
+  padding: 5px 10px;
+}
+
+section > div#carte table td.ta-center.italic {
+  padding: 0;
+  position: relative;
+  top: -5px;
+  margin: 0;
 }
 
 section > div table .menu-title {
   font-size: 20px;
+  margin-bottom: 10px;
+}
+
+section > div table .sub-title {
+  padding-bottom: 10px !important;
 }
 
 section > div#carte table .menu-title {
@@ -69,6 +85,10 @@ section > div#menus table tr td:nth-child(2n) {
     margin-bottom: 15px;
   }
 
+  section > div#carte table {
+    margin-bottom: 25px;
+  }
+
   section > div#carte table .menu-title {
     font-size: 18px;
   }
@@ -79,6 +99,14 @@ section > div#menus table tr td:nth-child(2n) {
 
   section > div#carte table tr td:nth-child(2n) {
     width: 20%;
+  }
+ 
+  section > div#carte table#huitres tr td:first-child {
+    width: 70%;
+  }
+
+  section > div#carte table#huitres tr td:nth-child(2n) {
+    width: 30%;
   }
 
   section > div#menus table {
