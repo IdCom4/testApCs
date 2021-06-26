@@ -17,8 +17,8 @@ class SendEmailController extends Controller
         "nom" => "required",
         "mail" => "required|email",
         "tel" => "required|regex:/[0-9]{10}/",
-        "sujet" => "required",
-        "message" => "required"
+        "personnes" => "required|numeric|min:0",
+        "jour" => "required|date",
       ]);
 
       $data = array(
@@ -26,6 +26,8 @@ class SendEmailController extends Controller
         "mail" => $request->mail,
         "sujet" => $request->sujet,
         "tel" => $request->tel,
+        "personnes" => $request->personnes,
+        "jour" => $request->jour,
         "message" => $request->message,
       );
 

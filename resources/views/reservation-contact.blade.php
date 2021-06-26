@@ -27,7 +27,7 @@
         <section id="main">
           <x-horaires />
           <div id="contact">
-            <h2>Contact</h2>
+            <h2 class="ta-center">Contact &<br />Formulaire de Réservation</h2>
             <table>
               <tbody>
                 <tr>
@@ -40,7 +40,7 @@
                 </tr>
               </tbody>
             </table>
-            <p>Vous pouvez également nous contacter directement depuis ce formulaire:</p>
+            <p>Vous pouvez réserver directement depuis ce formulaire:</p>
             @if(count($errors) > 0)
               <div id="errors" class="infos">
                 <ul>
@@ -60,8 +60,9 @@
               <input id="nom" name="nom" class="form-elem" type="text" placeholder="Votre nom" />
               <input id="mail" name="mail" class="form-elem" type="text" placeholder="Votre email" />
               <input type="tel" id="tel" name="tel"  class="form-elem" placeholder="Votre numéro de téléphone (ex: 0678912345)" />
-              <input id="sujet" name="sujet" class="form-elem" type="text" placeholder="Objet">
-              <textarea id="message" name="message" class="form-elem" placeholder="Message"></textarea>
+              <input type="number" id="personnes" name="personnes"  min="0" class="form-elem" placeholder="Nombre de Personnes" />
+              <input type="datetime-local" id="jour" name="jour"  class="form-elem" />
+              <textarea id="message" name="message" class="form-elem" placeholder="Remarques"></textarea>
               <input type="submit" id="submit" name="send" value="Envoyer" />
             </form>
           </div>

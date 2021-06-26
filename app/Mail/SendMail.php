@@ -31,7 +31,7 @@ class SendMail extends Mailable
     public function build()
     {
         return $this->from('reservations@au-petit-chez-soi.fr')
-                    ->subject($this->data["sujet"])
+                    ->subject("Mail de Réservation")
                     ->view('dynamic_email_template')
                     ->with('data', $this->data);
     }
