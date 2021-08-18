@@ -31,7 +31,7 @@
           </div>
         </section>
         <section id="infos">
-          <p>RETROUVEZ LE GOÛT DE LA LIBERTÉ ET D’UNE BONNE TABLE AU PETIT CHEZ SOI</p>
+          <p>NOUS VOUS ACCUEILLERONS AVEC GRAND PLAISIR DÈS LE 1ER SEPTEMBRE POUR VOUS FAIRE DÉCOUVRIR NOTRE NOUVELLE CARTE.</p>
         </section>
         <section id="presentation">
           <div id="a-propos">
