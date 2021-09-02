@@ -25,80 +25,91 @@
         <x-navbar activeTab="menus-carte" />
         <section id="main">
           <div id="carte">
+            <h2>Au&nbsp;Petit&nbsp;Chez&nbsp;Soi - Menu</h2>
+            <p>*Tous nos plats sont faits maison et à la demande</p>
             <table>
               <tr>
-                <td colspan="2" class="ta-center bold menu-title">Les Entrées</td>
+                <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>
               </tr>
               <tr>
-                <td>Tartare de saumon parfumé au citron vert et basilic, crème chantilly</td>
-                <td class="bold">17,50€</td>
+                <td>Foie gras de canard maison et son chutney aux figues, toasts grillés</td>
+                <td class="bold">19,50€</td>
+              </tr>
+              <tr>
+                <td>Œuf doré truffé</td>
+                <td class="bold">12,50€</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-left italic"><small>(œuf pané, poêlée de champignons, sauce à la crème de truffe)</small></td>
+              </tr>
+              <tr>
+                <td>Salade de poulpe, sauce moutarde à l’ancienne</td>
+                <td class="bold">15,80€</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-left italic"><small>( pommes de terre, tomates cerises, câpres à queue, et ses condiments )</small></td>
               </tr>
               <tr>
                 <td>Escargots de Bourgogne </td>
                 <td class="bold"><small class="italic">(6)</small>&nbsp;10,00€ - <small class="italic">(12)</small>&nbsp;18,00€</td>
               </tr>
               <tr>
-                <td>Burrata crémeuse et tomates en salade roquette, crumble au parmesan, sauce pistou</td>
-                <td class="bold">17,50€</td>
+                <td>Assiette de charcuterie</td>
+                <td class="bold">15,00€</td>
               </tr>
               <tr>
-                <td>Foie gras de canard maison et son chutney aux figues, toasts grillés</td>
-                <td class="bold">19,50€</td>
+                <td colspan="2" class="ta-left italic"><small>( mortadelle, coppa, bresaola, pâté de campagne, saucisson sec de porc, saucisson pimenté italien, cornichons et câpres à queue )</small></td>
               </tr>
             </table>
             <table id="huitres">
               <tr>
-                <td colspan="2" class="ta-center bold menu-title">Les Huîtres</td>
+                <td colspan="2" class="ta-center bold menu-title">Nos Huîtres</td>
               </tr>
               <tr>
-                <td colspan="2" class="ta-center bold sub-title">Huîtres du Cotentin n°3</td>
+                <td colspan="2" class="ta-center bold sub-title">Dégustation d’huîtres « <span class="bold">Grand crus en Cotentin</span> » ( Pleine mer, St Vaast, Utah Beach )</td>
               </tr>
               <tr>
-                <td>Pleine mer</td>
-                <td><span class="bold">14€</span> <small class="italic">les&nbsp;6</span></td>
+                <td class="ta-center">par 6 - <span class="bold">18€</span></td>
               </tr>
               <tr>
-                <td>Saint-Vaast</td>
-                <td><span class="bold">18€</span> <small class="italic">les&nbsp;6</span></td>
+                <td class="ta-center">par 8 - <span class="bold">27€</span></td>
               </tr>
               <tr>
-                <td>Utah Beach</td>
-                <td><span class="bold">22€</span> <small class="italic">les&nbsp;6</span></td>
+                <td class="ta-center">par 12 - <span class="bold">36€</span></td>
               </tr>
-              <tr>
-                <td colspan="2" class="ta-center bold">Formule Découverte</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center italic sub-title">(assortiment de chaque variété)</td>
-              </tr>
-              <tr>
-                <td>6 huîtres</td>
-                <td class="bold">18€</td>
-              </tr>
-              <tr>
-                <td>9 huîtres</td>
-                <td class="bold">27€</td>
-              </tr>
-              <tr>
-                <td>12 huîtres</td>
-                <td class="bold">36€</td>
-              </tr>
-              <tr>
             </table>
             <table>
               <tr>
-                <td colspan="2" class="ta-center bold menu-title">Les Salades</td>
+                <td colspan="2" class="ta-center bold menu-title">Nos Salades</td>
               </tr>
               <tr>
-                <td>Power Bowl nature ou poulet</td>
-                <td class="bold">17,90€</td>
+                <td>Salade aux trois fromages</td>
+                <td class="bold">15,80€</td>
               </tr>
               <tr>
-                <td colspan="2" class="ta-center italic"><small>(avocat, grenades, tomates cerise, radis, concombre, choux rouge, patate douce)</small></td>
+                <td colspan="2" class="ta-left italic"><small>( salade et tomates cerises, conté, toast au chèvre et miel, emmental )</small></td>
               </tr>
               <tr>
-                <td>Salade nicoise</td>
-                <td class="bold">19,90€</td>
+                <td>Salade Océane</td>
+                <td class="bold">19,80€</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-left italic"><small>( crevettes, saumon fumé, moules, chair de crabe, œuf, maïs, carottes râpées, cœur d’artichaud, tomates, concombres )</small></td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Menu Enfant</td>
+              </tr>
+              <tr>
+                <td>Sirop à l'eau</td>
+              </tr>
+              <tr>
+                <td>Steak haché, nuggets de poulet ou poisson, frites maison ou purée,</td>
+              </tr>
+              <tr>
+                <td>une boule de glace au choix</td>
+                <td class="bold">15€</td>
               </tr>
             </table>
             <table>
@@ -107,66 +118,81 @@
               </tr>
               <tr>
                 <td class="italic">Selon l'humeur du chef</td>
-                <td class="bold">16,50€</td>
+                <td class="bold">14,90€</td>
               </tr>
             </table>
             <table>
               <tr>
-                <td colspan="2" class="ta-center bold menu-title">Les Viandes</td>
+                <td colspan="2" class="ta-center bold menu-title">Nos Poissons</td>
               </tr>
               <tr>
-                <td>Cœur de rumsteak charolais (220 gr.), poêlée de pomme de terre grenaille, champignons, sauce béarnaise</td>
-                <td class="bold">24€</td>
-              </tr>
-              <tr>
-                <td>Entrecôte de Salers grillée (300 gr.), frites maison, sauce au poivre</td>
-                <td class="bold">27€</td>
-              </tr>
-              <tr>
-                <td>Trio de côtes d’agneau, caviar d’aubergines, jus d’agneau corsé</td>
+                <td>Pavé de saumon grillé ( 220g ), poêlée de légumes, sauce vierge</td>
                 <td class="bold">23€</td>
               </tr>
               <tr>
-                <td>Burger maison (180gr.) au comté et cheddar, salade de tomates et oignons rouges, frites, sauce barbecue</td>
+                <td colspan="2" class="ta-left italic"><small>( poivrons rouges et jaunes, aubergines, courgettes et tomates cerises )</small></td>
+              </tr>
+              <tr>
+                <td>Dos cabillaud ( 220g ), poêlée d’haricots verts, pois gourmands et tomates cerises, crème de moutarde à l’ancienne</td>
+                <td class="bold">24€</td>
+              </tr>
+              <tr>
+                <td>Pavé de thon ( 220g ) rouge grillé, riz à l’indienne </td>
+                <td class="bold">25€</td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Nos Viandes</td>
+              </tr>
+              <tr>
+                <td>Burger à l’américaine, frites maisons ou salade verte</td>
                 <td class="bold">19€</td>
               </tr>
-            </table>
-            <table>
               <tr>
-                <td colspan="2" class="ta-center bold menu-title">Les Poissons</td>
+                <td colspan="2" class="ta-left italic"><small>( pain brioché, steak haché 180g, conté et emmental fondu, tranches de bacon et lard fumé, pickles d’oignons rouges, cornichons, salade tomates, sauce samouraï )</small></td>
               </tr>
               <tr>
-                <td>Pavé de saumon grillé, duo d’asperges, sauce vierge</td>
-                <td class="bold">23€</td>
+                <td>Tartare de bœuf préparé ( 180g ), frites maisons ou salade verte</td>
+                <td class="bold">16,80€</td>
               </tr>
               <tr>
-                <td>Dos de cabillaud et son risotto crémeux au parmesan et ses copeaux d’asperges</td>
+                <td colspan="2" class="ta-left italic"><small>( cornichons, câpres, oignons blancs, sauce revisitée )</small></td>
+              </tr>
+              <tr>
+                <td>Cœur de rumsteak charolais ( 220 g ) sauce poivre, frites maison ou salade verte</td>
                 <td class="bold">24€</td>
               </tr>
+              <tr>
+                <td>Entrecôte limousine ( 300g ), purée à la truffe maison, sauce foie gras</td>
+                <td class="bold">30€</td>
+              </tr>
+              <tr>
+                <td>Côte de Veau française ( 250g ), caviar d’aubergine, pommes de terre fondantes et sa poêlée de girolles fraîche, jus de veau corsé</td>
+                <td class="bold">28€</td>
+              </tr>
+              <tr>
+                <td>Médaillon de volaille à la Thaï</td>
+                <td class="bold">22,80€</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-left italic"><small>( nouilles chinoises, pousses de soja, chou bok choy, lamelles de carottes et courgettes, chou chinois, concassé de cacahuètes, déglacé à la sauce soja sucrée-salée )</small></td>
+              </tr>
+              <tr>
+                <td>Côte de bœuf limousine à la demande ( à partir de 800g ) </td>
+                <td class="bold">80€</td>
+              </tr>
             </table>
             <table>
               <tr>
-                <td colspan="2" class="ta-center bold menu-title">Menu Enfant <small class="italic">(jusqu'à 12 ans)</small></td>
+                <td colspan="2" class="ta-center bold menu-title">Nos Desserts</td>
               </tr>
               <tr>
-                <td>Nuggets poulet ou poisson, frites, Glace</td>
-                <td class="bold">15€</td>
-              </tr>
-            </table>
-            <table>
-              <tr>
-                <td colspan="2" class="ta-center bold menu-title">Les Desserts Maison</td>
-              </tr>
-              <tr>
-                <td>Tarte aux pommes, crème glacée à la vanille</td>
+                <td>Tiramisu selon l’humeur du chef</td>
                 <td class="bold">9€</td>
               </tr>
               <tr>
-                <td>Charlotte aux fruits rouges</td>
-                <td class="bold">9€</td>
-              </tr>
-              <tr>
-                <td>Crème caramel</td>
+                <td>Tarte aux poires, crème d’amandes</td>
                 <td class="bold">9€</td>
               </tr>
               <tr>
@@ -174,12 +200,24 @@
                 <td class="bold">9€</td>
               </tr>
               <tr>
-                <td>Café ou thé gourmand</td>
-                <td class="bold">12€</td>
+                <td>Crème caramel et son palais noisette</td>
+                <td class="bold">9€</td>
+              </tr>
+              <tr>
+                <td>Café gourmand</td>
+                <td class="bold">10€</td>
               </tr>
               <tr>
                 <td>Champagne gourmand</td>
                 <td class="bold">18€</td>
+              </tr>
+              <tr>
+                <td>2 Boule de glace(s) artisanales au choix</td>
+                <td class="bold">5€</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-left italic"><small>( Chocolat, café, vanille, fraise, caramel au beurre salé, sorbet abricot, sorbet poire, sorbet cassis, sorbet citron )
+</small></td>
               </tr>
             </table>
           </div>

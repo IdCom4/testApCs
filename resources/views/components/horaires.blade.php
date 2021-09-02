@@ -7,18 +7,14 @@
         <td colspan="2" class="ta-center bold">Midi</td>
       </tr>
       <tr>
-        <td>Mercredi au Vendredi</td>
+        <td>Mardi au Dimanche</td>
         <td>12h à 14h</td>
-      </tr>
-      <tr>
-        <td>Samedi et Dimanche</td>
-        <td>12h30 à 14h30</td>
       </tr>
       <tr>
         <td colspan="2" class="ta-center bold">Soirée</td>
       </tr>
       <tr>
-        <td>Mercredi au Samedi</td>
+        <td>Mardi au Samedi</td>
         <td>19h à 22h</td>
       </tr>
     </tbody>

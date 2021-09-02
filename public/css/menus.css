@@ -21,7 +21,12 @@ section > div {
 }
 
 section > div h2 {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
+}
+
+section > div h2 + p {
+  margin: 0 0 25px 0;
+  font-style: italic;
 }
 
 section > div#carte table {
@@ -32,10 +37,11 @@ section > div#carte table td {
   padding: 5px 10px;
 }
 
-section > div#carte table td.ta-center.italic {
+section > div#carte table td.ta-left.italic {
   padding: 0;
   position: relative;
-  top: -5px;
+  top: -8px;
+  padding-left: 10px;
   margin: 0;
 }
 
@@ -82,6 +88,8 @@ section > div#menus table tr td:nth-child(2n) {
   }
 
   section > div h2 {
+    text-align: center;
+    font-size: 30px;
     margin-bottom: 15px;
   }
 
@@ -118,7 +126,7 @@ section > div#menus table tr td:nth-child(2n) {
   }
 
   section > div table small {
-    font-size: 8px;
+    font-size: 9px;
   }
 
   section#main > div {
