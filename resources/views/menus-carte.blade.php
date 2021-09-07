@@ -25,9 +25,162 @@
         <x-navbar activeTab="menus-carte" />
         <section id="main">
           <div id="carte">
-            <h2>Au&nbsp;Petit&nbsp;Chez&nbsp;Soi - Menu</h2>
+            <h2>Au&nbsp;Petit&nbsp;Chez&nbsp;Soi<br class="responsive-only" /> - <br class="responsive-only" />Menu</h2>
             <p>*Tous nos plats sont faits maison et à la demande</p>
             <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Foie gras de canard maison et son chutney aux figues, toasts grillés</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Œuf doré truffé</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>(œuf pané, poêlée de champignons, sauce à la crème de truffe)</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Salade de poulpe, sauce moutarde à l’ancienne</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( pommes de terre, tomates cerises, câpres à queue, et ses condiments )</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Escargots de Bourgogne </td>
+              </tr>
+              <tr>
+                <td class="ta-center">Assiette de charcuterie</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( mortadelle, coppa, bresaola, pâté de campagne, saucisson sec de porc, saucisson pimenté italien, cornichons et câpres à queue )</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Dégustation d’huîtres « <span class="bold">Grand crus en Cotentin</span> » ( Pleine mer, St Vaast, Utah Beach )</td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Nos Salades</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Salade aux trois fromages</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( salade et tomates cerises, conté, toast au chèvre et miel, emmental )</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Salade Océane</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( crevettes, saumon fumé, moules, chair de crabe, œuf, maïs, carottes râpées, cœur d’artichaud, tomates, concombres )</small></td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Menu Enfant</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Sirop à l'eau</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Steak haché, nuggets de poulet ou poisson, frites maison ou purée,</td>
+              </tr>
+              <tr>
+                <td class="ta-center">une boule de glace au choix</td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Pâtes du Jour</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Selon l'humeur du chef</td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Nos Poissons</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Pavé de saumon grillé ( 220g ), poêlée de légumes, sauce vierge</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( poivrons rouges et jaunes, aubergines, courgettes et tomates cerises )</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Dos cabillaud ( 220g ), poêlée d’haricots verts, pois gourmands et tomates cerises, crème de moutarde à l’ancienne</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Pavé de thon ( 220g ) rouge grillé, riz à l’indienne </td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Nos Viandes</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Burger à l’américaine, frites maisons ou salade verte</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( pain brioché, steak haché 180g, conté et emmental fondu, tranches de bacon et lard fumé, pickles d’oignons rouges, cornichons, salade tomates, sauce samouraï )</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Tartare de bœuf préparé ( 180g ), frites maisons ou salade verte</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( cornichons, câpres, oignons blancs, sauce revisitée )</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Cœur de rumsteak charolais ( 220 g ) sauce poivre, frites maison ou salade verte</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Entrecôte limousine ( 300g ), purée à la truffe maison, sauce foie gras</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Côte de Veau française ( 250g ), caviar d’aubergine, pommes de terre fondantes et sa poêlée de girolles fraîche, jus de veau corsé</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Médaillon de volaille à la Thaï</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( nouilles chinoises, pousses de soja, chou bok choy, lamelles de carottes et courgettes, chou chinois, concassé de cacahuètes, déglacé à la sauce soja sucrée-salée )</small></td>
+              </tr>
+              <tr>
+                <td class="ta-center">Côte de bœuf limousine à la demande ( à partir de 800g )</td>
+              </tr>
+            </table>
+            <table>
+              <tr>
+                <td colspan="2" class="ta-center bold menu-title">Nos Desserts</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Tiramisu selon l’humeur du chef</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Tarte aux poires, crème d’amandes</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Mousse au chocolat</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Crème caramel et son palais noisette</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Café gourmand</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Champagne gourmand</td>
+              </tr>
+              <tr>
+                <td class="ta-center">2 Boule de glace(s) artisanales au choix</td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( Chocolat, café, vanille, fraise, caramel au beurre salé, sorbet abricot, sorbet poire, sorbet cassis, sorbet citron )
+</small></td>
+              </tr>
+            </table>
+            <!--table>
               <tr>
                 <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>
               </tr>
@@ -219,173 +372,8 @@
                 <td colspan="2" class="ta-left italic"><small>( Chocolat, café, vanille, fraise, caramel au beurre salé, sorbet abricot, sorbet poire, sorbet cassis, sorbet citron )
 </small></td>
               </tr>
-            </table>
+            </table-->
           </div>
-          <!--div id="waiter">
-            <h2>Menus et Carte</h2>
-            <p>Il nous tarde de vous présenter notre nouvelle carte !</p>
-            <p>À partir du <span class="bold underline">9 juin</span>, vous y trouverez une cuisine traditionnelle française revisitée, élaborée à partir de produits variés et de saison</p>
-          </div-->
-          
-          <!-- div id="menus">
-            <h2>Menus</h2>
-            <table>
-              <tr>
-                <td class="bold menu-title" style="padding-top: 0">Menu Carte (hors&nbsp;boisson)</td>
-                <td><span class="bold menu-title">43€<br /></span><small>(+&nbsp;Sup.&nbsp;selon&nbsp;votre&nbsp;choix)</small></td>
-              </tr>
-              <tr>
-                <td class="ta-center">A choisir à la carte</td>
-              </tr>
-              <tr>
-                <td>Entrée - Plat - Fromage<span class="bold">&nbsp;ou&nbsp;</span>Dessert</td>
-              </tr>
-              <tr>
-                <td class="bold menu-title" colspan="2">Déjeuner à l'ardoise - Formule Bistrot (hors&nbsp;boisson)</td>
-              </tr>
-              <tr>
-                <td class="ta-center"><small>Mercredi, jeudi et vendredi<br />(Hors jours fériés)</small></td>
-              </tr>
-              <tr>
-                <td>Entrée - Plat - Dessert</td>
-                <td class="ta-center bold">24,50€</td>
-              </tr>
-              <tr>
-                <td>Plat du Jour seul</td>
-                <td class="ta-center bold">19€</td>
-              </tr>
-              <tr>
-                <td class="bold menu-title">Menu Pitchoun (hors&nbsp;boisson)</td>
-                <td class="bold menu-title">15€</td>
-              </tr>
-              <tr>
-                <td class="ta-center" colspan="2"><small>(jusqu'à&nbsp;10&nbsp;ans)</small></td>
-              </tr>
-              <tr>
-                <td class="ta-center underline" colspan="2">1 menu Pitchoun acheté = 1 menu Pitchoun offert</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center">Beignets de poisson - Tagliatelles</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center">ou</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center">Croustillants de poulet - Purée</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center">+</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center">Glace ou sorbet <small>(2 boules)</small></td>
-              </tr>
-              <tr>
-                <td colspan="2" class="menu-title"><span class="bold underline">Ciné-Diner à la Celle Saint-Cloud</span> -&nbsp;<small>Réservation&nbsp;recommandée</small></td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center">-10% pour la séance du samedi soir sur présentation du ticket</td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center"><small>(Hors boisson et jours fériés)</small></td>
-              </tr>
-            </table>
-            <p><small>
-              Selon le marché, certains produits peuvent manquer<br />
-              Produits allergènes - Voir liste à la caisse<br />
-              Nos prix sont nets TTC - service compris
-          </small></p>
-          </div>
-          <div id="carte">
-            <h2>Carte</h2>
-            <table>
-              <tr>
-                <td colspan="2" class="ta-center bold menu-title">Entrées</td>
-              </tr>
-              <tr>
-                <td>Huîtres Spéciales de "Utah Beach"<br /><small>(Selon&nbsp;arrivage&nbsp;en&nbsp;direct&nbsp;du&nbsp;producteur)</small></td>
-                <td><span class="bold">22€</span> <small>(Sup.&nbsp;8)</small></td>
-              </tr>
-              <tr>
-                <td>Nage ravioles aux truffes et aux cèpes (5)</td>
-                <td><span class="bold">14€</span></td>
-              </tr>
-              <tr>
-                <td>Croustillants de Gambas</td>
-                <td><span class="bold">16€</span></td>
-              </tr>
-              <tr>
-                <td>Foie gras du "Petit Chez Soi" et son service</td>
-                <td><span class="bold">18€</span> <small>(Sup.&nbsp;3)</small></td>
-              </tr>
-              <tr>
-                <td>Escargots de bourgogne (12)</td>
-                <td><span class="bold">15€</span></td>
-              </tr>
-              <tr>
-                <td>"Coeur" de saumon aux agrumes</td>
-                <td><span class="bold">17€</span></td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center bold menu-title">Plats</td>
-              </tr>
-              <tr>
-                <td>Nage ravioles aux truffes et aux cèpes (9)</td>
-                <td><span class="bold">25€</span></td>
-              </tr>
-              <tr>
-                <td>Poêlée de Saint-Jaques - Fondue de poireaux</td>
-                <td><span class="bold">29€</span> <small>(Sup.&nbsp;4)</small></td>
-              </tr>
-              <tr>
-                <td>Poisson du marché - <small>voir le tableau</small></td>
-              </tr>
-              <tr>
-                <td>Gambas de flambées au whisky - Tagliatelles</td>
-                <td><span class="bold">258€</span></td>
-              </tr>
-              <tr>
-                <td>Pluma de pata negra - purée "Maison"</td>
-                <td><span class="bold">35€</span> <small>(Sup.&nbsp;10)</small></td>
-              </tr>
-              <tr>
-                <td>Rumsteack, sauce aux poivres</td>
-                <td><span class="bold">28€</span></td>
-              </tr>
-              <tr>
-                <td>Ris de veau, sauce forestière - Tagliatelles</td>
-                <td><span class="bold">39€</span> <small>(Sup.&nbsp;13)</small></td>
-              </tr>
-              <tr>
-                <td colspan="2" class="ta-center bold menu-title">Fromages et Desserts</td>
-              </tr>
-              <tr>
-                <td class="bold">Assiette de fromages fermiers</td>
-                <td><span class="bold">10,50€</span></td>
-              </tr>
-              <tr>
-                <td><span class="bold">Desserts</span> <small>(à choisir en début de repas)</small></td>
-                <td><span class="bold">10,50€</span></td>
-              </tr>
-              <tr>
-                <td>Moelleux au chocolat <small>(9 minutes de temps de cuisson)</small></td>
-              </tr>
-              <tr>
-                <td>Pana Cota à la vanille de Bourbon et son coulis de fruits rouges</td>
-              </tr>
-              <tr>
-                <td>Saveur de Lot et Garonne</td>
-              </tr>
-              <tr>
-                <td>Café Liégeois</td>
-              </tr>
-              <tr>
-                <td>Glaces ou Sorbets arrosés ou non</td>
-              </tr>
-              <tr>
-                <td>Café ou Thé gourmand</td>
-              </tr>
-            </table>
-          </div -->
         </section>
         <x-footer />
     </body>

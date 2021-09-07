@@ -22,6 +22,11 @@ section > div {
 
 section > div h2 {
   margin-bottom: 10px;
+  color: #31555C;
+}
+
+section > div h2 br.responsive-only {
+  display: none;
 }
 
 section > div h2 + p {
@@ -37,17 +42,23 @@ section > div#carte table td {
   padding: 5px 10px;
 }
 
-section > div#carte table td.ta-left.italic {
+section > div#carte table td.ta-center.italic {
   padding: 0;
   position: relative;
   top: -8px;
   padding-left: 10px;
   margin: 0;
+  color: #31555C;
+}
+
+section > div#carte table td.ta-center.italic small {
+  color: #31555C;
 }
 
 section > div table .menu-title {
   font-size: 20px;
   margin-bottom: 10px;
+  color: #31555C;
 }
 
 section > div table .sub-title {
@@ -91,6 +102,11 @@ section > div#menus table tr td:nth-child(2n) {
     text-align: center;
     font-size: 30px;
     margin-bottom: 15px;
+    line-height: 30px;
+  }
+
+  section > div h2 br.responsive-only {
+    display: block;
   }
 
   section > div#carte table {
