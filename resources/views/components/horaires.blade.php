@@ -8,7 +8,7 @@
       </tr>
       <tr>
         <td>Mardi au Dimanche</td>
-        <td>12h à 14h</td>
+        <td>12h à 15h</td>
       </tr>
       <tr>
         <td colspan="2" class="ta-center bold">Soirée</td>
