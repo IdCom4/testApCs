@@ -35,14 +35,15 @@
         </section>
         <section id="presentation">
           <div id="a-propos">
-            <h2>Qui sommes-nous ?</h2>
-            <p>Nous avons mis à profit ces mois de séparation pour embellir ce bijou de restaurant dans son écrin du bourg médiéval de La Celle Saint-Cloud, à deux pas de Paris, de Versailles et de Saint-Germain en Laye.</p>
-            <p>Le dynamisme de notre équipe soutient le talent d’un duo expérimenté et ambitieux en cuisine.</p>
-            <p>Notre démarche est généreuse, elle a pour objectif de partager avec vous notre goût d’une bonne table et du bonheur de l’instant présent.</p>
-            <p>Au Petit Chez Soi n’est pas qu’une enseigne ou une adresse : c’est un accueil et un savoir-faire qui vous mènent naturellement à ressentir que vous êtes au petit chez vous.</p>
-            <p>Avant le 9 juin, date à laquelle nous aurons le bonheur de vous recevoir sous notre toit, nous vous accueillons sur nos terrasses pour des dégustations en tous genres, dont des grands crus d’huîtres du Cotentin.</p>
-            <p>Nous élargirons ensuite notre carte pour vous proposer des produits de saison et de belle origine, adaptés aux goûts les plus variés.</p>
-            <p class=" bold">Nous vous attendons Au Petit Chez Soi, vous y serez mieux que bien !</p>
+          <h2>La cuisine qui séduit vos papilles</h2>
+            <h3>dans un cadre authentique et rénové</h3>
+            <p>Nous avons mis à profit les premiers mois de l'année 2021 pour embellir ce bijou de restaurant dans son écrin du bourg médiéval de La Celle Saint-Cloud, à 20 minutes de Paris, de Versailles et de Saint-Germain en Laye.</p>
+            <p>Le dynamisme de notre équipe en salle soutient le talent d’une brigade expérimentée et ambitieuse en cuisine.</p>
+            <p>La carte est saisonnière et adaptée aux goûts les plus variés, elle a vocation à être renouvelée à chaque trimestre tout en gardant les incontournables.</p>
+            <p>Nous vous accueillons pour des dégustations en tous genres, dont des grands crus d'huîtres du Cotentin</p>
+            <p>Parfois, notre Chef vous fera voyager à travers des saveurs du monde.</p>
+            <p>Notre démarche est généreuse, elle a pour but de partager avec vous le goût d'une bonne table et du bonheur de l'instant présent.</p>
+            <p>Au Petit Chez Soit n'est pas seulement une enseigne ou une adresse, c'est un accueil et un savoir faire qui mènent naturellement à ressentir que vous êtes au petit chez vous.</p>
           </div>
           <div id="horaires-map">
             <x-horaires />

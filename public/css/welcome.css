@@ -12,7 +12,12 @@ section#titre h1 {
 
 section#presentation h2 {
   width: fit-content;
-  margin-bottom: 35px !important;
+  margin-bottom: 0 !important;
+}
+
+section#presentation h3 {
+  border: none;
+  margin-bottom: 25px !important;
 }
 
 section#titre .background-teint {

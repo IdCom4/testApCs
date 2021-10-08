@@ -32,7 +32,7 @@
                 <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>
               </tr>
               <tr>
-                <td class="ta-center">Foie gras de canard maison et son chutney aux figues, toasts grillés <span class="bold">19,50€</span></td>
+                <td class="ta-center">Foie gras maison, chutney pommes poires toasts grillés <span class="bold">19,50€</span></td>
               </tr>
               <tr>
                 <td class="ta-center">Œuf doré truffé <span class="bold">12,50€</span></td>
@@ -185,7 +185,7 @@
                 <td class="ta-center">Champagne gourmand <span class="bold">18,00€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">2 Boule de glace(s) artisanales au choix <span class="bold">5,00€</span></td>
+                <td class="ta-center">2 Boules de glace artisanales au choix <span class="bold">5,00€</span></td>
               </tr>
               <tr>
                 <td colspan="2" class="ta-center italic"><small>( Chocolat, café, vanille, fraise, caramel au beurre salé, sorbet abricot, sorbet poire, sorbet cassis, sorbet citron )
