@@ -27,7 +27,7 @@
         <section id="titre">
           <div class="background-teint">
             <h1>Au Petit Chez Soi</h1>
-            <h3>Tradition française et familiale</h3>
+            <h3>Le bonheur vient en mangeant</h3>
           </div>
         </section>
         <section id="infos">
@@ -39,11 +39,12 @@
             <h3>dans un cadre authentique et rénové</h3>
             <p>Nous avons mis à profit les premiers mois de l'année 2021 pour embellir ce bijou de restaurant dans son écrin du bourg médiéval de La Celle Saint-Cloud, à 20 minutes de Paris, de Versailles et de Saint-Germain en Laye.</p>
             <p>Le dynamisme de notre équipe en salle soutient le talent d’une brigade expérimentée et ambitieuse en cuisine.</p>
-            <p>La carte est saisonnière et adaptée aux goûts les plus variés, elle a vocation à être renouvelée à chaque trimestre tout en gardant les incontournables.</p>
-            <p>Nous vous accueillons pour des dégustations en tous genres, dont des grands crus d'huîtres du Cotentin</p>
+            <p>La marque Au Petit Chez Soi, c’est la saisonnalité avec une carte qui change tous les trois mois, hormis les incontournables.</p>
+            <p>Nous sommes attachés à vous accueillir avec des plats faits maison de l’entrée au dessert.</p>
             <p>Parfois, notre Chef vous fera voyager à travers des saveurs du monde.</p>
-            <p>Notre démarche est généreuse, elle a pour but de partager avec vous le goût d'une bonne table et du bonheur de l'instant présent.</p>
-            <p>Au Petit Chez Soit n'est pas seulement une enseigne ou une adresse, c'est un accueil et un savoir faire qui mènent naturellement à ressentir que vous êtes au petit chez vous.</p>
+            <p>Pour vos événements familiaux, professionnels ou sportifs, notre salle au 1er étage d’une capacité de 50 personnes avec video projecteur et écran géant est à votre disposition avec la même qualité de service et de plats.</p>
+            <p>Notre démarche est généreuse, elle vise à partager avec vous le goût d'une bonne table et du bonheur de l'instant présent.</p>
+            <p>Au Petit Chez Soi n'est pas seulement une enseigne ou une adresse, c'est un accueil et un savoir faire qui mènent à ressentir que vous êtes au petit chez vous.</p>
           </div>
           <div id="horaires-map">
             <x-horaires />
