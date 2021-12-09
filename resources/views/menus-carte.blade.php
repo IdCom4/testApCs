@@ -27,6 +27,74 @@
           <div id="carte">
             <h2>Au&nbsp;Petit&nbsp;Chez&nbsp;Soi<br class="responsive-only" /> - <br class="responsive-only" />Menu</h2>
             <p>*Tous nos plats sont faits maison et à la demande</p>
+
+            <!-- CHRISTMAS -->
+            <h3>Menus Réveillon</h3>
+            <h4>Menu 99€</h4>
+            <table>
+              <tr><td class="ta-center">coupe de champage réserve pour l'apéritif</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">un verre de vin pour l'entrée, un pour le plat</td></tr>
+
+              <tr><td colspan="2" class="ta-center bold menu-title">Entrées</td></tr>
+              <tr><td class="ta-center">Foie gras de canard maison, chutney aux figues</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Oeuf doré à la crème de truffe, poêlée de champignons de Paris</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Assiette aux deux saumons, fumé et gravlax</td></tr>
+
+              <tr><td colspan="2" class="ta-center bold menu-title">Plats</td></tr>
+              <tr><td class="ta-center">Noix de St-Jacques poêlées, risotto crémeux aux asperges, sauce champagne</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Tournedos de sanglier, fagot d'haricots verts, pommes de terre fondantes, sauce myrtille</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Assiette de fromages</td></tr>
+
+              <tr><td colspan="2" class="ta-center bold menu-title">Desserts</td></tr>
+              <tr><td class="ta-center">Parfait poire-chocolat, crème anglaise à l'ancienne</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Ananas flambé et son coulis passion, boule de glace vanille</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Pour accompagner le dessert:</td></tr>
+              <tr><td class="ta-center">Flûte de champagne blanc de noir</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Digestif maison</td></tr>
+            </table>
+
+            <h4>Menu 120€</h4>
+            <table>
+              <tr><td class="ta-center">coupe de champage prestige pour l'apéritif</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">un verre de vin pour l'entrée, un pour le plat</td></tr>
+
+              <tr><td colspan="2" class="ta-center bold menu-title">Entrées</td></tr>
+              <tr><td class="ta-center">Foie gras de canard maison aux petites épices douces, chutney aux figues</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Oeuf doré à la crème de truffe, poêlée de pleurotes</td></tr>
+
+              <tr><td colspan="2" class="ta-center bold menu-title">Plats</td></tr>
+              <tr><td class="ta-center">Lotte grillées aux trois purées (céleri, carottes et pommes de terre)</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Filet de boeuf Rossini, risotto d'épeautre crémeux, sauce poivre</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Homard flambé, duo d'asperges grillées beurre blanc citronné</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Assiette de fromages</td></tr>
+
+              <tr><td colspan="2" class="ta-center bold menu-title">Desserts</td></tr>
+              <tr><td class="ta-center">Pavlova Royal aux fruits rouges</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Bûche de Noël chocolat praliné à la vanille</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Pour accompagner le dessert:</td></tr>
+              <tr><td class="ta-center">Flûte de champagne blanc de noir</td></tr>
+              <tr><td class="ta-center">****</td></tr>
+              <tr><td class="ta-center">Digestif maison</td></tr>
+            </table>
+
+            <!-- REGULAR -->
+            <h3>Carte du moment</h3>
+
             <table>
               <tr>
                 <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>

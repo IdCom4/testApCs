@@ -13,6 +13,13 @@ section#titre h1 {
 section#presentation h2 {
   width: fit-content;
   margin-bottom: 0 !important;
+  margin-top: 25px;
+}
+
+section#presentation h2:first-child {
+  width: fit-content;
+  margin-bottom: 0 !important;
+  margin-top: 0;
 }
 
 section#presentation h3 {
@@ -118,6 +125,10 @@ section#presentation div#horaires-map iframe {
   section#presentation {
     padding: 10px;
     padding-bottom: 0;
+  }
+
+  section#presentation h3 {
+    font-size: 20px !important;
   }
 
   section#presentation > div {
