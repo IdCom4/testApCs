@@ -29,7 +29,7 @@
             <p>*Tous nos plats sont faits maison et à la demande</p>
 
             <!-- CHRISTMAS -->
-            <h3>Menus Réveillon</h3>
+            <!--h3>Menus Réveillon</h3>
             <h4>Menu 99€</h4>
             <table>
               <tr><td class="ta-center">coupe de champage réserve pour l'apéritif</td></tr>
@@ -90,7 +90,7 @@
               <tr><td class="ta-center">Flûte de champagne blanc de noir</td></tr>
               <tr><td class="ta-center">****</td></tr>
               <tr><td class="ta-center">Digestif maison</td></tr>
-            </table>
+            </table-->
 
             <!-- REGULAR -->
             <h3>Carte du moment</h3>

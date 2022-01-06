@@ -36,10 +36,11 @@
         <section id="presentation">
           <div id="a-propos">
             
-            <h3>AU PETIT CHEZ SOI,<br />RÉVEILLON DU 31 DÉCEMBRE ET DÉJEUNER DU NOUVEL AN</h3>
+            <!--h3>AU PETIT CHEZ SOI,<br />RÉVEILLON DU 31 DÉCEMBRE ET DÉJEUNER DU NOUVEL AN</h3>
             <p>Venez inaugurer chaleureusement l’an 2022 avec gourmandise.</p>
             <p>En responsabilité au regard du contexte sanitaire et des protocoles induits, notre désir est de toujours vous mener à avoir le goût de moments précieux et gourmands, quoi qu’il arrive.</p>
-            <p>Retrouvez nos menus spécial Réveillon sur <a href="{{ url('/menus-carte') }}">notre carte</a>.</p>
+            <p>Retrouvez nos menus spécial Réveillon sur <a href="{{ url('/menus-carte') }}">notre carte</a>.</p-->
+            
             <h2>La cuisine qui séduit vos papilles</h2>  
             <h3>dans un cadre authentique et rénové</h3>
             <p>Nous avons mis à profit les premiers mois de l'année 2021 pour embellir ce bijou de restaurant dans son écrin du bourg médiéval de La Celle Saint-Cloud, à 20 minutes de Paris, de Versailles et de Saint-Germain en Laye.</p>
