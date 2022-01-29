@@ -17,7 +17,7 @@
     <tr><td colspan="2" class="ta-center bold menu-title">Plats</td></tr>
     <tr><td class="ta-center">Filet de boeuf Rossini, purée à la truffe, sauce poivre</td></tr>
     <tr><td class="ta-center"><small>ou</small></td></tr>
-    <tr><td class="ta-center">Filet de barr et son duo d'asperges, pommes de terre vapeurs, sauce vierge</td></tr>
+    <tr><td class="ta-center">Filet de bar et son duo d'asperges, pommes de terre vapeurs, sauce vierge</td></tr>
 
     <tr><td colspan="2" class="ta-center bold menu-title">Desserts</td></tr>
     <tr><td class="ta-center">Coeur passion aux trois couleurs, crème anglaise</td></tr>
