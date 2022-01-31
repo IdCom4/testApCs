@@ -27,8 +27,12 @@
 
 #saint-valentin h3 {
   border: none !important;
-  margin-top: 10px;
-  margin: 25px 0;
+  margin: 25px 0 10px 0;
+}
+
+#saint-valentin h3 + small {
+  margin-bottom: 25px;
+  font-style: italic;
 }
 
 #saint-valentin table {
