@@ -100,16 +100,13 @@
                 <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>
               </tr>
               <tr>
-                <td class="ta-center">Foie gras maison aux épices douces, chutney de figues fraîches <span class="bold">19,80€</span></td>
-              </tr>
-              <tr>
                 <td class="ta-center">Œuf doré truffé <span class="bold">14,80€</span></td>
               </tr>
               <tr>
                 <td colspan="2" class="ta-center italic"><small>(œuf mollet pané, poêlée de champignons, sur sa crème de truffe)</small></td>
               </tr>
               <tr>
-                <td class="ta-center">Soupe de poissons, rouille et croûtons aillés <span class="bold">10,80€</span></td>
+                <td class="ta-center">Foie gras maison, déglacé au cognac et au porto, chutney de figues fraîches <span class="bold">19,80€</span></td>
               </tr>
               <tr>
                 <td class="ta-center">Escargots de Bourgogne</td>
@@ -124,7 +121,7 @@
                 <td colspan="2" class="ta-center italic"><small>( mortadelle, coppa, bresaola, pâté de campagne, saucisson sec de porc, saucisson pimenté italien, cornichons et câpres )</small></td>
               </tr>
               <tr>
-                <td class="ta-center">Dégustation d’huîtres « <span class="bold">Grand crus en Cotentin</span> » ( Pleine mer, St Vaast, Utah Beach )</td>
+                <td class="ta-center">Dégustation d’huîtres n°3 « <span class="bold">Grand crus en Cotentin</span> » ( Pleine mer, St Vaast, Utah Beach )</td>
               </tr>
               <tr>
                 <td colspan="2" class="ta-center italic"><small>par 6 - 18,00€</small></td>
@@ -172,15 +169,6 @@
 
             <table>
               <tr>
-                <td colspan="2" class="ta-center bold menu-title">Plat du Jour</td>
-              </tr>
-              <tr>
-                <td class="ta-center">Selon l'humeur du chef <span class="bold">13,80€</span></td>
-              </tr>
-            </table>
-
-            <table>
-              <tr>
                 <td colspan="2" class="ta-center bold menu-title">Pâtes du Jour selon l'humeur du chef</td>
               </tr>
               <tr>
@@ -196,7 +184,10 @@
                 <td colspan="2" class="ta-center bold menu-title">Nos Plats</td>
               </tr>
               <tr>
-                <td class="ta-center">Velouté de butternut, chantilly au lard fumé, croûtons et marrons concassés <span class="bold">15,90€</span></td>
+                <td class="ta-center">Salade de gambas à la thaï, huile d’olive citron vert et basilic <span class="bold">15,90€</span></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( Pommes de terre vapeur, citronnelle, gingembre, coriandre )</small></td>
               </tr>
               <tr>
                 <td class="ta-center">Duo de choux-fleurs rôtis et de patate douce, houmous et cervelle de canut <span class="bold">17,50€</span></td>
@@ -208,13 +199,10 @@
                 <td colspan="2" class="ta-center bold menu-title">Nos Poissons</td>
               </tr>
               <tr>
-                <td class="ta-center">Pavé de cabillaud grillé, risotto de penne, sauce curry coco <span class="bold">23,60€</span></td>
+                <td class="ta-center">Filet de bar grillé, risotto crémeux, sauce vierge <span class="bold">21,50€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Pavé de saumon grillé, tagliatelles, sauce à l'oseille <span class="bold">22,80€</span></td>
-              </tr>
-              <tr>
-                <td class="ta-center">Noix de St-Jaques grillées, risotto à la provençale <span class="bold">26,80€</span></td>
+                <td class="ta-center">Pavé de saumon grillé, duo d’asperges et pistou roquette-basilic  <span class="bold">19,80€</span></td>
               </tr>
             </table>
 
@@ -223,31 +211,28 @@
                 <td colspan="2" class="ta-center bold menu-title">Nos Viandes</td>
               </tr>
               <tr>
-                <td class="ta-center">Chicken Burger <span class="bold">19,80€</span></td>
+                <td class="ta-center">Burger au Taleggio, frites maison <span class="bold">19,80€</span></td>
               </tr>
               <tr>
-                <td colspan="2" class="ta-center italic"><small>( lard fumé, pickles d'oignons rouges, mayonnaise safranée, salade, tomate, cornichons )</small></td>
+                <td colspan="2" class="ta-center italic"><small>( steak haché, Taleggio, lard fumé, pickles d’oignons rouges, sauce samouraï, salade, tomate, cornichons )</small></td>
               </tr>
               <tr>
-                <td class="ta-center">Coq au vin, pommes de terre vapeur <span class="bold">20,50€</span></td>
+                <td class="ta-center">Langue de bœuf à la charcutière, pommes de terre vapeur <span class="bold">17,60€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Souris d'agneau, purée du moment <span class="bold">22,60€</span></td>
+                <td class="ta-center">Onglet de bœuf, purée maison, sauce marchand de vin <span class="bold">16,80€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Entrecôte de Salers (250g), frites, sauce au bleu <span class="bold">24,60€</span></td>
+                <td class="ta-center">Tête de veau à la française, sauce gribiche <span class="bold">18,60€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Cœur de Rumsteak charolais ( 220 g ), assortiment de légumes, sauce poivre <span class="bold">23,60€</span></td>
+                <td class="ta-center">Cœur de Rumsteak Black Angus, frites maison et salade verte <span class="bold">23,60€</span></td>
               </tr>
               <tr>
-                <td colspan="2" class="ta-center italic"><small>( pommes de terre grenailles, pois gourmands, haricotes verts, champignons )</small></td>
+                <td class="ta-center">Entrecôte d’Angus grillée, poêlée d’haricots verts et pois gourmands, sauce poivre <span class="bold">24,60€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Trio de côtes d'agneau avec son jus corsé, pleurotes et caviar d'aubergines <span class="bold">25,40€</span></td>
-              </tr>
-              <tr>
-                <td class="ta-center">Côte de boeuf de Salers à la demande <span class="bold">80,00€</span></td>
+                <td class="ta-center">Côte de boeuf Angus à la demande <span class="bold">80,00€</span></td>
               </tr>
               <tr>
                 <td colspan="2" class="ta-center italic"><small>( à partir de 800g sans os )</small></td>
@@ -256,19 +241,28 @@
 
             <table>
               <tr>
+                <td class="ta-center">Assiette de fromages <span class="bold">12,00€</span></td>
+              </tr>
+              <tr>
+                <td colspan="2" class="ta-center italic"><small>( Assortiment de fromages seul ou à partager )</small></td>
+              </tr>
+            </table>
+
+            <table>
+              <tr>
                 <td colspan="2" class="ta-center bold menu-title">Nos Desserts</td>
               </tr>
               <tr>
-                <td class="ta-center">Tarte Tatin, crème glacée vanille <span class="bold">9,00€</span></td>
+                <td class="ta-center">Crème brûlée à la pistache, fraises et cassis <span class="bold">9,00€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Parfait poire-chocolat, crème anglaise <span class="bold">9,00€</span></td>
+                <td class="ta-center">Crème caramel revisitée <span class="bold">9,00€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Crème caramel et son palais noisette <span class="bold">9,00€</span></td>
+                <td class="ta-center">Mousse au chocolat <span class="bold">9,00€</span></td>
               </tr>
               <tr>
-                <td class="ta-center">Tarte au citron meringuée revisitée <span class="bold">9,00€</span></td>
+                <td class="ta-center">Charlotte aux fruits rouges <span class="bold">9,00€</span></td>
               </tr>
               <tr>
                 <td class="ta-center">Café gourmand <span class="bold">10,00€</span></td>
@@ -280,8 +274,7 @@
                 <td class="ta-center">2 Boules de crème glacée artisanale <span class="bold">5,00€</span></td>
               </tr>
               <tr>
-                <td colspan="2" class="ta-center italic"><small>( Chocolat, café, vanille, fraise, caramel au beurre salé, mangue, sorbet abricot, sorbet: abricot, poire, cassis, citron )
-</small></td>
+                <td colspan="2" class="ta-center italic"><small>( Chocolat, café, vanille, fraise, caramel au beurre salé, mangue, sorbet abricot, sorbet: abricot, poire, cassis, citron )</small></td>
               </tr>
             </table>
             <!--table>
