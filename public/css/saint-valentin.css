@@ -1,0 +1,64 @@
+#saint-valentin {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px;
+  padding-bottom: 0;
+}
+
+#saint-valentin .bandeau {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+  background-color: darkred;
+  width: 100%;
+}
+
+#saint-valentin .bandeau h2,
+#saint-valentin .bandeau i.fa-heart {
+  color: white;
+}
+
+#saint-valentin h2, #saint-valentin h3, #saint-valentin h4 {
+  width: fit-content;
+  text-align: center;
+}
+
+#saint-valentin h3 {
+  border: none !important;
+  margin: 25px 0 10px 0;
+}
+
+#saint-valentin h3 + small {
+  margin-bottom: 25px;
+  font-style: italic;
+}
+
+#saint-valentin table {
+  margin-bottom: 50px;
+}
+
+#saint-valentin table td.menu-title {
+  padding-top: 50px;
+}
+
+#saint-valentin table td small {
+  font-style: italic;
+}
+
+@media screen and (max-width: 850px) {
+  #saint-valentin .bandeau h2 {
+    font-size: 4vw !important;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  #saint-valentin {
+    padding: 25px 10px 0 10px;
+  }
+
+  #saint-valentin h3 {
+    font-size: 17px;
+  }
+}

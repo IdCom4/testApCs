@@ -15,10 +15,10 @@
       </tr>
       <tr>
         <td>Mardi* au Samedi</td>
-        <td>19h à 22h</td>
+        <td>19h30 à 22h</td>
       </tr>
     </tbody>
   </table>
-  <small>* Repas uniquement à la carte le mardi</small>
+  <small>*Plats uniquement à l'ardoise</small>
   <p>Réservations: <span class="bold underline">01 39 69 69 51</span> ou <a href="{{ url('/reservation-contact') }}"><span class="bold underline">formulaire</span></a></p>
 </div>
