@@ -27,7 +27,10 @@
           <div id="carte">
             <h2>Au&nbsp;Petit&nbsp;Chez&nbsp;Soi<br class="responsive-only" /> - <br class="responsive-only" />Menu</h2>
             <p>*Tous nos plats sont faits maison et à la demande</p>
-            <table>
+
+            <p class="waiter">Carte du marché jusqu’à fin août, une nouvelle carte vous attend début septembre !</p>
+
+            <!--<table>
               <tr>
                 <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>
               </tr>
@@ -112,6 +115,14 @@
             </table>
             <table>
               <tr>
+                <td colspan="2" class="ta-center bold menu-title">Plat du Jour</td>
+              </tr>
+              <tr>
+                <td class="ta-center">Selon l'humeur du chef <span class="bold">13,90€</span></td>
+              </tr>
+            </table>
+            <table>
+              <tr>
                 <td colspan="2" class="ta-center bold menu-title">Nos Poissons</td>
               </tr>
               <tr>
@@ -191,7 +202,13 @@
                 <td colspan="2" class="ta-center italic"><small>( Chocolat, café, vanille, fraise, caramel au beurre salé, sorbet abricot, sorbet poire, sorbet cassis, sorbet citron )
 </small></td>
               </tr>
-            </table>
+            </table>-->
+
+
+
+
+
+
             <!--table>
               <tr>
                 <td colspan="2" class="ta-center bold menu-title">Nos Entrées</td>

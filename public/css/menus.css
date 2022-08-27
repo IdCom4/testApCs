@@ -15,11 +15,6 @@ section > div {
   align-items: center;
 }
 
-#waiter * {
-  text-align: center;
-  border: none;
-}
-
 section > div h2 {
   margin-bottom: 10px;
   color: #31555C;
@@ -103,6 +98,10 @@ section > div#menus table tr td:nth-child(2n) {
     font-size: 30px;
     margin-bottom: 15px;
     line-height: 30px;
+  }
+
+  .waiter {
+    padding: 0 10%;
   }
 
   section > div h2 br.responsive-only {
