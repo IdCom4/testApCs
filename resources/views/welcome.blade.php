@@ -34,7 +34,6 @@
         <section id="infos">
           <p>NOUS VOUS ACCUEILLERONS AVEC GRAND PLAISIR DÈS LE 1ER SEPTEMBRE POUR VOUS FAIRE DÉCOUVRIR NOTRE NOUVELLE CARTE.</p>
         </section>
-        <x-saint-valentin />
         <section id="presentation">
           <div id="a-propos">
             
